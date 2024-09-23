@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../UsingTableFunction.Dataset"
+    },
+    "byConnection": null
+  }
+}
