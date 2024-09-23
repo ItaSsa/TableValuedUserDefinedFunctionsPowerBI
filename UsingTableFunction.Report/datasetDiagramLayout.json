@@ -7,7 +7,34 @@
         "x": 0,
         "y": 0
       },
-      "nodes": [],
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "T_SALES",
+          "nodeLineageTag": "b2a2cafe-15a2-4c8c-abb1-72f102f27f41",
+          "size": {
+            "height": 462,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 432.7,
+            "y": 0
+          },
+          "nodeIndex": "FN_BUILT_CALENDAR",
+          "nodeLineageTag": "43c04c15-e790-43cd-95a5-5d179919c01c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
       "name": "All tables",
       "zoomValue": 100,
       "pinKeyFieldsToTop": false,
